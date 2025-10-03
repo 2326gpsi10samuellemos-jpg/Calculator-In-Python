@@ -14,10 +14,9 @@ The calculator allows users to **perform basic arithmetic operations** and keeps
 - Console application  
 
 ## How to Run
-1. Clone this repository  
-2. Navigate to the project folder (`cd calculadora-erasmus`)  
-3. Run the calculator: `python calculadora.py`  
-4. Follow the instructions in the terminal. Type `sair` to exit  
+1. Clone this repository    
+2. Run the calculator: `python calculadora.py`  
+3. Follow the instructions in the terminal. Type `sair` to exit  
 
 ## Purpose
 This project demonstrates my ability to:
